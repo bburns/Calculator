@@ -1,7 +1,7 @@
 
 # Calculator
 
-A simple calculator, developed for the [Front End Developmer Certification from FreeCodeCamp](https://www.freecodecamp.com/bburns).
+A simple calculator, developed for the [Front End Development Certification from FreeCodeCamp](https://www.freecodecamp.com/bburns).
 
 <img src="screenshots/Calculator.png" />
 
